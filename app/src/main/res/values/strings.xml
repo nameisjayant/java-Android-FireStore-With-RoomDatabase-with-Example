@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirestoreRoomDatabase</string>
+    <string name="loading">Loading</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name='FirestoreRoomDatabase'
+include ':app'
